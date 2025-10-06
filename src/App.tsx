@@ -9,9 +9,9 @@ function App() {
   return (
     <Router>
       <nav style={{ display: "flex", gap: "1rem", padding: "10px", background: "#f2f2f2" }}>
-        <Link to="/countries">🌍 Quốc gia</Link>
-        <Link to="/currency">💰 Tỉ giá</Link>
-        <Link to="/movies">🎬 Phim</Link>
+        <Link to="/countries">Bài 1</Link>
+        <Link to="/currency">Bài 2</Link>
+        <Link to="/movies">Bài 3</Link>
       </nav>
 
       <Routes>
